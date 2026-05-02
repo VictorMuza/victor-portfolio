@@ -83,7 +83,7 @@ export default function Contact() {
             Vamos criar algo incrível juntos!
           </p>
           <a
-            href="mailto:victor@email.com"
+            href="mailto:victormuza021@gmail.com"
             className="btn-primary inline-flex items-center gap-2 text-lg"
           >
             <Send className="w-5 h-5" />
