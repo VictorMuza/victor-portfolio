@@ -12,14 +12,14 @@ const socialLinks = [
   {
     name: 'LinkedIn',
     icon: Linkedin,
-    url: '#',
+    url: 'https://www.linkedin.com/in/victor-muza/',
     color: 'hover:bg-blue-600/20',
     description: 'Conecte-se comigo'
   },
   {
     name: 'Email',
     icon: Mail,
-    url: 'mailto:victor@email.com',
+    url: 'mailto:victormuza021@gmail.com',
     color: 'hover:bg-red-600/20',
     description: 'Envie uma mensagem'
   }

@@ -58,7 +58,7 @@ export default function About() {
               </div>
               <div className="flex items-center gap-2 text-gray-300">
                 <Mail className="w-5 h-5 text-primary-400" />
-                <span>victor@email.com</span>
+                <span>victormuza021@gmail.com</span>
               </div>
             </div>
 
